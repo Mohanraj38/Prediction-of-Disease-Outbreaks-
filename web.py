@@ -41,7 +41,7 @@ if selected == 'PROJECT OVERVIEW':
     ### Contact Information
     For more information, please contact:
     - **Name**: MohanRaj K
-    - **Email**: mohanraj@example.com
+    - **Email**: mohanrajk3838@gmail.com
     """)
 if selected =='DIABETES PREDICTION' :
     st.title('DIABETES PREDICTION TOOL')
